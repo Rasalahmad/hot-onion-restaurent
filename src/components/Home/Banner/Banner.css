@@ -1,0 +1,15 @@
+.banner-container{
+    background-image: url('../../../images/bannerbackground.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.input-cont{
+    outline: none;
+    border-radius: 25px !important;
+}

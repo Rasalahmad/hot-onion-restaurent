@@ -1,0 +1,13 @@
+.footer{
+    height: 300px;
+    background-color: rgba(0, 0, 0, 0.803);
+    border-radius: 0px 100px 0px 100px;
+    color: #fff;
+}
+.footer-logo{
+    width: 150px;
+}
+.footer-policy{
+    display: flex;
+    justify-content: space-evenly;
+}
